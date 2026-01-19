@@ -18,8 +18,8 @@ const data = [
         image: Image2,
         title: "PrimeTech – Tech Made Simple (Full Stack)",
         desc: "A modern e-commerce platform designed for tech and gadget lovers. You can easily browse, compare, and shop for the latest devices. Smart shopping is quick, dependable, and fun.",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/Almonaimsiam/primetech'
+        demo: 'https://prime-tech-pro-main-d6ys.vercel.app/',
+        github: 'https://github.com/Almonaimsiam/PrimeTech-pro-main'
     },
     
   
